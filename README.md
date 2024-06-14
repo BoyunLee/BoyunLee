@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=a1cbf2&height=120&text=Hello%20I'm%20BoYun&animation=&fontColor=84aae6&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요! </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello! </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 꾸준히 성장하는 개발자가 되고싶은 이보윤입니다. </div> 
     </div>
     <div style="text-align: left;">
