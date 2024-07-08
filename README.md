@@ -26,8 +26,8 @@
           </div>  <br> 
     </div>
     
-    ### Most Use Language
-    <hr>
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoyunLee&layout=compact)
+    ### Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoyunLee&layout=compact)
+
     
     
