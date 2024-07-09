@@ -34,7 +34,7 @@
 
 ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qhdbs0802)
 ![Solved.ac 프로필](http://mazandi.herokuapp.com/api?handle=qhdbs0802&theme=light)
-
+[View my problem difficulty distribution on Solved.ac](https://solved.ac/profile/qhdbs0802)
 
 
 
