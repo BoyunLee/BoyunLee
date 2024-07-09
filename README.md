@@ -33,6 +33,8 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Baekjoon Badge Display </h2> <br>
 
 ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qhdbs0802)
+![Solved.ac 프로필](http://mazandi.herokuapp.com/api?handle=qhdbs0802&theme=dark)
+
 
 
     
