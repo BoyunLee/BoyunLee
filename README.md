@@ -25,6 +25,14 @@
     <div style="text-align: left;"> <a href=mailto:boyun0802@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:boyun0802@gmail.com"> </a>
           </div>  <br> 
     </div>
+
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Work Experience </h2> <br>
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 2019.03 ~ 2024.02 Korea Maritime & Ocean University </div> 
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 2024.05 ~ 2024.10 KB IT's Your Life 5th </div> 
+
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Certification </h2> <br> 
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">사회조사분석사 2급 </div> 
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> ADsP </div> 
     
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Most Used Languages </h2> <br>    
 
