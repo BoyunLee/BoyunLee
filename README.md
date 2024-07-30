@@ -34,11 +34,11 @@
 <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">사회조사분석사 2급 </div> 
 <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> ADsP </div> 
     
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Most Used Languages </h2> <br>    
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Most Used Languages </h2>   
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoyunLee&langs_count=8)
 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Baekjoon Badge Display </h2> <br>
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Baekjoon Badge Display </h2>
 
 ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qhdbs0802)
 
