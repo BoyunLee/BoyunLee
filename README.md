@@ -28,7 +28,7 @@
     
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Most Used Languages </h2> <br>    
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoyunLee&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Baekjoon Badge Display </h2> <br>
 
