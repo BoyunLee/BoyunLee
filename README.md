@@ -31,8 +31,9 @@
 <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 2024.05 ~ 2024.10 KB IT's Your Life 5th </div> 
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> certificate </h2>
-<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">사회조사분석사 2급 </div> 
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> SQLD </div> 
 <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> ADsP </div> 
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">사회조사분석사 2급 </div> 
     
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Most Used Languages </h2>   
 
