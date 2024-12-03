@@ -30,10 +30,15 @@
 <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 2019.03 ~ 2024.02 Korea Maritime & Ocean University </div> 
 <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 2024.05 ~ 2024.10 KB IT's Your Life 5th </div> 
 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> certificate </h2>
-<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> SQLD </div> 
-<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> ADsP </div> 
-<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">사회조사분석사 2급 </div> 
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Certificate </h2>
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> SQL개발자(SQLD) </div> 
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 데이터분석준전문가(ADsP) </div> 
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 사회조사분석사 2급 </div> 
+
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Awards </h2>
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 2024년 제6회 K-디지털 트레이닝 해커톤 - 우수상 수상 </div> 
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> KB IT'S YOUR LIFE 해커톤 - 아이디어상 수상 </div> 
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> KB IT'S YOUR LIFE 종합실무프로젝트 - 최우수상 수상 </div> 
     
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Most Used Languages </h2>   
 
