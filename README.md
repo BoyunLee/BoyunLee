@@ -8,6 +8,11 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Tech Stacks </h2>
     <div style="margin: ; text-align: left;" "text-align: left;">
+    [![My Skills](https://skillicons.dev/icons?i=js,html,css,js,ts)](https://skillicons.dev)
+
+
+
+        
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
