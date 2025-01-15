@@ -10,8 +10,15 @@
     <div style="margin: ; text-align: left;" "text-align: left;">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="My Skills">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="My Skills">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="My Skills">
+    </a>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nextjs,react,vue" alt="My Skills">
+    </a>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java,py,r,matlab" alt="My Skills">
+    </a>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="My Skills">
     </a>
 
     </div>
