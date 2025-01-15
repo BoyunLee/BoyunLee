@@ -9,19 +9,12 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Tech Stacks </h2>
     <div style="margin: ; text-align: left;" "text-align: left;">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="My Skills">
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="My Skills">
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="My Skills">
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="My Skills">
     </a>
-<!--           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-          <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
-          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-          <img src= "https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-          <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-          <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> -->
-          </div>
+
+    </div>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Contact me </h2>
