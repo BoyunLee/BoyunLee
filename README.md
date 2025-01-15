@@ -1,3 +1,7 @@
+<head>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+</head>
+
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=a1cbf2&height=120&text=BoYun%20GitHub&animation=&fontColor=84aae6&fontSize=70" />
 </div>
@@ -10,26 +14,20 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Tech Stacks</h2>
     <div>
-        <div>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML, CSS, JS, TS">
-    </a>
-</div>
-<div>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nextjs,react,vue" alt="NextJS, React, Vue">
-    </a>
-</div>
-<div>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,py,r,matlab" alt="Java, Python, R, MATLAB">
-    </a>
-</div>
-<div>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL, MongoDB">
-    </a>
-</div>
+        <ul>
+            <li><strong>HTML, CSS, JavaScript, TypeScript</strong><br>
+                <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML, CSS, JS, TS">
+            </li>
+            <li><strong>Next.js, React, Vue</strong><br>
+                <img src="https://skillicons.dev/icons?i=nextjs,react,vue" alt="NextJS, React, Vue">
+            </li>
+            <li><strong>Java, Python, R, MATLAB</strong><br>
+                <img src="https://skillicons.dev/icons?i=java,py,r,matlab" alt="Java, Python, R, MATLAB">
+            </li>
+            <li><strong>MySQL, MongoDB</strong><br>
+                <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL, MongoDB">
+            </li>
+        </ul>
     </div>
 </div>
 
