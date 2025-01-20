@@ -18,7 +18,7 @@
             <li><strong>HTML, CSS, JavaScript, TypeScript</strong><br>
                 <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML, CSS, JS, TS">
             </li>
-            <li><strong>Next.js, React, Vue</strong><br>
+            <li><strong>Next, React, Vue</strong><br>
                 <img src="https://skillicons.dev/icons?i=nextjs,react,vue" alt="NextJS, React, Vue">
             </li>
             <li><strong>Java, Python, R, MATLAB</strong><br>
