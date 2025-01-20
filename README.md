@@ -41,9 +41,9 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Work Experience</h2>
     <ul style="font-weight: 700; font-size: 15px; color: #282d33;">
-        <li>2019.03 ~ 2024.02: Korea Maritime & Ocean University</li>
-        <li>2024.05 ~ 2024.10: KB IT's Your Life 5기</li>
-        <li>2024.12 ~ : 멋쟁이 사자처럼 프론트엔드 부트캠프 플러스 3기</li>
+        <li>2019.03 ~ 2024.02 : Korea Maritime & Ocean University</li>
+        <li>2024.05 ~ 2024.10 : KB IT's Your Life 5기</li>
+        <li>2024.12 ~ 2025.03 : 멋쟁이 사자처럼 프론트엔드 부트캠프 플러스 3기</li>
     </ul>
 </div>
 
