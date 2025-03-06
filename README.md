@@ -38,8 +38,8 @@
             <li><strong>Java, Python, R, MATLAB</strong><br>
                 <img src="https://skillicons.dev/icons?i=java,py,r,matlab" alt="Java, Python, R, MATLAB">
             </li>
-            <li><strong>MySQL, MongoDB</strong><br>
-                <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL, MongoDB">
+            <li><strong>MySQL, MongoDB, PostgreSQL</strong><br>
+                <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" alt="MySQL, MongoDB, PostgreSQL">
             </li>
         </ul>
     </div>
