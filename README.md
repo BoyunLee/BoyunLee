@@ -51,6 +51,10 @@
                 <img src="https://skillicons.dev/icons?i=r,matlab" alt="R, MATLAB"><br>
                 R, MATLAB
             </li>
+            <li><strong>Deployment</strong><br>
+                <img src="https://skillicons.dev/icons?i=vercel, linux" alt="Vercel, Linux"><br>
+                 Vercel, Linux(Nginx)
+            </li>
         </ul>
     </div>
 </div>
