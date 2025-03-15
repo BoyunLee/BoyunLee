@@ -41,7 +41,7 @@
                 <img src="https://skillicons.dev/icons?i=java,spring" alt="Java, Spring"><br>
                 Java (Spring Legacy)<br>
                 <img src="https://skillicons.dev/icons?i=python,django" alt="Python, Django"><br>
-                Python (Django, FastAPI)
+                Python (Django)
             </li><br>
             <li><strong>Databases</strong><br>
                 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" alt="MySQL, PostgreSQL, MongoDB"><br>
