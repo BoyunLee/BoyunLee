@@ -29,17 +29,25 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Tech Stacks</h2>
     <div>
         <ul>
-            <li><strong>HTML, CSS, JavaScript, TypeScript</strong><br>
-                <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML, CSS, JS, TS">
-            </li>
-            <li><strong>Next, React, Vue</strong><br>
+            <li><strong>1️⃣ Frontend</strong><br>
+                HTML, CSS, JavaScript, TypeScript<br>
+                <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML, CSS, JS, TS"><br>
+                Next.js, React, Vue<br>
                 <img src="https://skillicons.dev/icons?i=nextjs,react,vue" alt="NextJS, React, Vue">
             </li>
-            <li><strong>Java, Python, R, MATLAB</strong><br>
-                <img src="https://skillicons.dev/icons?i=java,py,r,matlab" alt="Java, Python, R, MATLAB">
+            <li><strong>2️⃣ Backend</strong><br>
+                Node.js<br>
+                <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"><br>
+                Java (Spring Legacy)<br>
+                <img src="https://skillicons.dev/icons?i=java,spring" alt="Java, Spring"><br>
+                Python (Django)<br>
+                <img src="https://skillicons.dev/icons?i=python,django" alt="Python, Django"><br>
+                R, MATLAB<br>
+                <img src="https://skillicons.dev/icons?i=r,matlab" alt="R, MATLAB">
             </li>
-            <li><strong>MySQL, MongoDB, PostgreSQL</strong><br>
-                <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" alt="MySQL, MongoDB, PostgreSQL">
+            <li><strong>3️⃣ Databases</strong><br>
+                MySQL, PostgreSQL, MongoDB<br>
+                <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" alt="MySQL, PostgreSQL, MongoDB">
             </li>
         </ul>
     </div>
