@@ -29,7 +29,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Tech Stacks</h2>
     <div>
         <ul style="list-style-type: none; padding-left: 0;">
-            <li><strong>1️⃣ Frontend</strong><br>
+            <li style="list-style-type: none; padding-left: 0;"><strong>1️⃣ Frontend</strong><br>
                 HTML, CSS, JavaScript, TypeScript<br>
                 <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML, CSS, JS, TS"><br>
                 Next.js, React, Vue<br>
