@@ -40,14 +40,16 @@
                 <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"><br>
                 Java (Spring Legacy)<br>
                 <img src="https://skillicons.dev/icons?i=java,spring" alt="Java, Spring"><br>
-                Python (Django)<br>
-                <img src="https://skillicons.dev/icons?i=python,django" alt="Python, Django"><br>
-                R, MATLAB<br>
-                <img src="https://skillicons.dev/icons?i=r,matlab" alt="R, MATLAB">
+                Python (Django, FastAPI, Flask)<br>
+                <img src="https://skillicons.dev/icons?i=python,django" alt="Python, Django">
             </li>
             <li><strong>3️⃣ Databases</strong><br>
                 MySQL, PostgreSQL, MongoDB<br>
                 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" alt="MySQL, PostgreSQL, MongoDB">
+            </li>
+            <li><strong>4️⃣ Data Analysis</strong><br>
+                R, MATLAB<br>
+                <img src="https://skillicons.dev/icons?i=r,matlab" alt="R, MATLAB">
             </li>
         </ul>
     </div>
