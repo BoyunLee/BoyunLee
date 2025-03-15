@@ -28,28 +28,28 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Tech Stacks</h2>
     <div>
-        <ul style="list-style-type: none; padding-left: 0;">
-            <li style="list-style-type: none; padding-left: 0;"><strong>1️⃣ Frontend</strong><br>
-                HTML, CSS, JavaScript, TypeScript<br>
+        <ul>
+            <li><strong>Frontend</strong><br>
                 <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML, CSS, JS, TS"><br>
-                Next.js, React, Vue<br>
-                <img src="https://skillicons.dev/icons?i=nextjs,react,vue" alt="NextJS, React, Vue">
-            </li>
-            <li><strong>2️⃣ Backend</strong><br>
-                Node.js<br>
+                HTML, CSS, JavaScript, TypeScript<br>
+                <img src="https://skillicons.dev/icons?i=nextjs,react,vue" alt="NextJS, React, Vue"><br>
+                Next.js, React, Vue
+            </li><br>
+            <li><strong>Backend</strong><br>
                 <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"><br>
-                Java (Spring Legacy)<br>
+                Node.js<br>
                 <img src="https://skillicons.dev/icons?i=java,spring" alt="Java, Spring"><br>
-                Python (Django, FastAPI, Flask)<br>
-                <img src="https://skillicons.dev/icons?i=python,django" alt="Python, Django">
-            </li>
-            <li><strong>3️⃣ Databases</strong><br>
-                MySQL, PostgreSQL, MongoDB<br>
-                <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" alt="MySQL, PostgreSQL, MongoDB">
-            </li>
-            <li><strong>4️⃣ Data Analysis</strong><br>
-                R, MATLAB<br>
-                <img src="https://skillicons.dev/icons?i=r,matlab" alt="R, MATLAB">
+                Java (Spring Legacy)<br>
+                <img src="https://skillicons.dev/icons?i=python,django" alt="Python, Django"><br>
+                Python (Django, FastAPI)
+            </li><br>
+            <li><strong>Databases</strong><br>
+                <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" alt="MySQL, PostgreSQL, MongoDB"><br>
+                MySQL, PostgreSQL, MongoDB
+            </li><br>
+            <li><strong>Data Analysis</strong><br>
+                <img src="https://skillicons.dev/icons?i=r,matlab" alt="R, MATLAB"><br>
+                R, MATLAB
             </li>
         </ul>
     </div>
