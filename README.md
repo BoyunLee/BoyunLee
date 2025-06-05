@@ -24,7 +24,7 @@
                 <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"><br>
                 Node.js<br>
                 <img src="https://skillicons.dev/icons?i=java,spring" alt="Java, Spring"><br>
-                Java (Spring Legacy)<br>
+                Java (Spring)<br>
                 <img src="https://skillicons.dev/icons?i=python,django" alt="Python, Django"><br>
                 Python (Django)
             </li><br>
