@@ -46,8 +46,8 @@
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Contact me</h2>
-    <a href="mailto:boyun0802@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:boyun0802@gmail.com" alt="Gmail">
+    <a href="mailto:qhdbs0802@naver.com">
+      <img src="https://img.shields.io/badge/Naver Mail-03C75A?style=for-the-badge&logo=Naver&logoColor=white" alt="Naver Email">
     </a>
 </div>
 
