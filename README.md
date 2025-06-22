@@ -37,7 +37,7 @@
                 R, MATLAB
             </li><br>
             <li><strong>Deployment</strong><br>
-                <img src="https://skillicons.dev/icons?i=vercel, linux" alt="Vercel, Linux"><br>
+                <img src="https://skillicons.dev/icons?i=vercel,linux" alt="Vercel, Linux"><br>
                  Vercel, Linux(Nginx)
             </li>
         </ul>
