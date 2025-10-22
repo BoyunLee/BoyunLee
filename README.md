@@ -73,7 +73,7 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Awards</h2>
     <ul style="font-weight: 700; font-size: 15px; color: #282d33;">
-        <li>2024년 제6회 K-디지털 트레이닝 해커톤 - 우수상 수상</li>
+        <li>2024년 제6회 K-디지털 트레이닝 해커톤 - 고용노동부장관상(우수상) 수상</li>
         <li>KB IT'S YOUR LIFE 해커톤 - 아이디어상 수상</li>
         <li>KB IT'S YOUR LIFE 종합실무프로젝트 - 최우수상 수상</li>
         <li>멋쟁이 사자처럼 프론트엔드 부트캠프 플러스 종합실무프로젝트 - 최우수상 수상</li>
