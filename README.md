@@ -11,8 +11,8 @@
     <div>
         <ul>
             <li><strong>Frontend</strong><br>
-                <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML, CSS, JS, TS"><br>
-                HTML, CSS, JavaScript, TypeScript<br>
+                <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="JS, TS"><br>
+                JavaScript, TypeScript<br>
                 <img src="https://skillicons.dev/icons?i=nextjs,react,vue" alt="NextJS, React, Vue"><br>
                 Next.js, React, Vue
             </li><br>
